@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "926761046669",
+    "project_id": "football-match-e1831",
+    "storage_bucket": "football-match-e1831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926761046669:android:25327061723a3a1d4308c4",
+        "android_client_info": {
+          "package_name": "com.mikirinkode.spod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926761046669-spqqbtsfae08coso1i951knn53hoo6hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl1UX_0MHiFm6ESiYBDcu0D25P_EHb9Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926761046669-spqqbtsfae08coso1i951knn53hoo6hl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926761046669-b6j7ijhknfg8maoa8rcditaog6610pgk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.spodApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
